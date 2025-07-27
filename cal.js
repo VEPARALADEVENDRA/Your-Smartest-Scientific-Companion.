@@ -1,6 +1,6 @@
 // Heading
 let cal = document.getElementById("demo");
-cal.innerHTML = "The Future of Scientific Thinking, One Calculation at a Time!....";
+cal.innerHTML = "⚛️ The Future of Scientific Thinking, One Calculation at a Time!....";
 cal.style.backgroundImage = "video.mp4";
 cal.style.color = "green";
 cal.style.textAlign = "center";
