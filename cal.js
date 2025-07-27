@@ -33,7 +33,7 @@ document.body.prepend(video);
 
 /// Main container
 let container = document.createElement("div");
-container.style.backgroundColor = "#b2e80dff";
+container.style.backgroundColor = "rgba(10, 206, 10, 0.3)";
 container.style.display = "flex";
 container.style.flexDirection = "column";
 container.style.justifyContent = "center";
